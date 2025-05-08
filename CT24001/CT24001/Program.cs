@@ -10,7 +10,7 @@ namespace CT24001
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Word");
+            Console.WriteLine("Hola Mundo");
         }
     }
 }
